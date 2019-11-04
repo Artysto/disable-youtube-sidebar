@@ -4,7 +4,7 @@ Download/Clone the project and unzip the files.
 
 Navigate to the root of the directory/folder containing all the unzipped files and remember/copy the path to the folder.
 
-Start chrome and enter the following without quotes in the address bar : "chrome://extensions".
+Start Chrome and enter the following without quotes in the address bar : "chrome://extensions".
 
 Toggle "Developer mode" if not already on.
 
